@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/qdkhgpq.jpg";
+    r_text[0] = "https://i.imgur.com/P47w0P3.jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -20,8 +20,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️SPlRlT SER✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 SPlRlT SER BOT.
-     *SPlRlT SER*
+𝐇𝐞𝐥𝐥𝐨👋 Spirit ser BOT.
+     *Spirit ser*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□SPIRIT SER■□■□■□■□■□
+■□■□■□■□■□Spirit ser■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -120,8 +120,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime SPIRIT SER
-■□■□■□■□■SPIRIT SER□■□■□■□■□■□
+⚠️anime Spirit ser
+■□■□■□■□■Spirit ser□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
@@ -132,9 +132,9 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp SPIRIT SER
+⚠️ex  attp Spirit ser
 ■□■□■□■□■□■□■□■□■□■□
-═════💢SPlRlT SER💢═════
+═════💢Spirit ser💢═════
 ▣▣▣▣▣▣▣▣▣SPlRlT YT▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
