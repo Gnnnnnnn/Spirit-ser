@@ -7,7 +7,7 @@ Asena.addCommand({pattern: 'song', fromMe: false,dontAddCommandList: true}, (asy
 
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
-r_text[1] = "SPlRlT SERne tholpikkaan ningalkavilla. Jeevitathil pinkiye tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
+r_text[1] = "Spirit serne tholpikkaan ningalkavilla. Jeevitathil pinkiye tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
 r_text[2] = "Spirit ser says i love you 😘";
 r_text[3] = "Spirit Serinte yudhangal Company Kanan Povunnatheyuloo";
 r_text[4] = "hi, how are you";
@@ -28,8 +28,8 @@ r_text[18] = "enikk njan und spirit ser uyir😌💖";
 r_text[19] = "\n eda sathyam para nee ente fan alle..\n ";
 r_text[20] = "The coefficient's of linear expansions is the position of Haemoglobin in the atmosphere. But Why? Full Many gem of purests serene lay underneath the unfathomed ocean's unblossomeds ! But why? But why";
 r_text[21] = "Kochi pazhaya kochiyellennariyam… pakshe spirit ser pazhaya pinky thanneya...😎\n\n";
-r_text[22] = "Kaanaan oru look illanney ullu… bhayankara budhiya\n\n ninnak allatto enik SPlRlT SER";
-r_text[23] = "Ithalla ithinapparam chaadi kadannavananee K.K. SPlRlT SER";
+r_text[22] = "Kaanaan oru look illanney ullu… bhayankara budhiya\n\n ninnak allatto enik Spirit ser";
+r_text[23] = "Ithalla ithinapparam chaadi kadannavananee K.K. Spirit ser";
 r_text[24] = "\nVarrierey… Enthado njan inganey aayi poyathu\n";
 r_text[25] = "\nPempillerey roattikoodey nadakkaan nee sammathikkilla, alley?... Da, neeyaanee alavaladi Shaji alley\n";
 r_text[26] = "\nAthu enne uddheshichanu… enne thanney uddheshichanu… enne maatram uddheshichanu\n";
