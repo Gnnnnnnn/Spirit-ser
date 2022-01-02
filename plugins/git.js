@@ -12,15 +12,15 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Spirit ser bot created by Spirit *
 *Creator number : wa.me/18052196558?text=Hi%20spirit%20.%20*
 
-*subscribe  my channel  : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA*
+*spirit bot group* : https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU
 
-*Githublink (Setup)  :    https://github.com/SPlRlT-YT/Spirit-ser*
+*Githublink (Setup)* :    https://github.com/SPlRlT-YT/Spirit-ser
 
-*Audio commads :   https://github.com/SPlRlT-YT/Spirit-ser/tree/master/uploads*
+*Audio commads* :   https://github.com/SPlRlT-YT/Spirit-ser/tree/master/uploads
 
-*Sticker commads : https://github.com/SPlRlT-YT/Spirit-ser/tree/master/sticker*
+*Sticker commads* : https://github.com/SPlRlT-YT/Spirit-ser/tree/master/sticker
 
-*My channel : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA* 
+*My channel* : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA 
 
 *For More Updates Subscribe The Channel ☝*
 `}) 
